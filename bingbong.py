@@ -1,1 +1,1 @@
-heyllo:P
+print("Hello, if you are reading this, I have no idea why you ventured so far into my github profile but I am now uncomfortable to know that you're lurking. I hope you don't find anything too disturbing :D")
